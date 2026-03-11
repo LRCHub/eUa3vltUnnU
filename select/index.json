@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "アリス? (feat. ナースロボ_タイプT)",
+  "base_artist": "R Sound Design",
+  "createdAt": "2026-03-11T19:01:08.910259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アリス",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/01_アリス_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アリス",
+      "artist": "Suiyoubi no Campanella",
+      "has_synced": true,
+      "path": "select/02_アリス_Suiyoubi_no_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アリス",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_アリス_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アリス",
+      "artist": "MY LITTLE LOVER",
+      "has_synced": false,
+      "path": "select/04_アリス_MY_LITTLE_LOVER.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アリス�",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/05_アリス�_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハー・ネーム・イズ・アリス",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/06_ハー・ネーム・イズ・アリス_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Home Sweet Home (キサラギ=アリス ver.)",
+      "artist": "Kisaragi, Alice(CV:Tomita, Miyu)",
+      "has_synced": true,
+      "path": "select/07_Home_Sweet_Home_(キサラギ=アリス_ver.)_Kisaragi,_Alice(CV_Tomita,_Miyu).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "さよなら、アリス",
+      "artist": "Flower",
+      "has_synced": false,
+      "path": "select/08_さよなら、アリス_Flower.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メガロポリス・アリス -MEGALOPOLIS ALICE-",
+      "artist": "ALI PROJECT",
+      "has_synced": true,
+      "path": "select/09_メガロポリス・アリス_-MEGALOPOLIS_ALICE-_ALI_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alice [アリス]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/10_Alice_[アリス]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メガロポリス・アリス -MEGAROPOLIS ALICE-",
+      "artist": "ALI PROJECT",
+      "has_synced": true,
+      "path": "select/11_メガロポリス・アリス_-MEGAROPOLIS_ALICE-_ALI_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メガロポリス・アリス-MEGALOPOLIS ALICE-",
+      "artist": "ALI PROJECT",
+      "has_synced": true,
+      "path": "select/12_メガロポリス・アリス-MEGALOPOLIS_ALICE-_ALI_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サンクチュアリ・アリス",
+      "artist": "悠木碧",
+      "has_synced": false,
+      "path": "select/13_サンクチュアリ・アリス_悠木碧.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "さよなら、アリス(version2016)",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/14_さよなら、アリス(version2016)_Flower.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アリス・イン・アンダーグラウンド",
+      "artist": "DADAROMA",
+      "has_synced": true,
+      "path": "select/15_アリス・イン・アンダーグラウンド_DADAROMA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "メガロポリス・アリス - MEGALOPOLIS ALICE",
+      "artist": "ALI PROJECT",
+      "has_synced": true,
+      "path": "select/16_メガロポリス・アリス_-_MEGALOPOLIS_ALICE_ALI_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "サンクチュアリ・アリス",
+      "artist": "新居昭乃",
+      "has_synced": false,
+      "path": "select/17_サンクチュアリ・アリス_新居昭乃.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アリス/チャンピオン",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/18_アリス_チャンピオン_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アリス? (feat. ナースロボ_タイプT)",
+      "artist": "R Sound Design",
+      "has_synced": false,
+      "path": "select/pl_01_アリス__(feat._ナースロボ_タイプT)_R_Sound_Design.txt"
+    }
+  ]
+}
